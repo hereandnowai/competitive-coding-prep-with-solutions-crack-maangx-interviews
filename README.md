@@ -17,8 +17,8 @@ This repository provides a comprehensive collection of 450 coding challenges fro
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/hereandnowai/coding-challenges.git
-   cd coding-challenges
+   git clone https://github.com/hereandnowai/competitive-coding-prep-with-solutions-crack-maangx-interviews.git
+   cd competitive-coding-prep-with-solutions-crack-maangx-interviews
    ```
 
 2. **Create and activate a virtual environment:**
